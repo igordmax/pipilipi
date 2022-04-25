@@ -9,7 +9,7 @@
 </div>
 </template>
 
-<script>
+<script src="https://unpkg.com/vue@next">
 var treeData = {
 
         name: "group",        
